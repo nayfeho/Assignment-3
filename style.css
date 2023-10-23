@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+
+.all {
+  box-sizing: border;
+  display: block;
+  flex-wrap: wrap;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  color: #fff; /* Text color */
+  font-size: 2rem;
+}
+
+.section1 {
+  background-image: url(img/image1.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: auto;
+  display: flex;
+  background-size: cover;
+}
+
+.section2 {
+  background-image: url(img/image2.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section3 {
+  background-image: url(img/image3.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section4 {
+  background-image: url(img/image4.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section5 {
+  background-image: url(img/image5.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section6 {
+  background-image: url(img/image6.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section7 {
+  background-image: url(img/image7.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.section8 {
+  background-image: url(img/image8.jpg);
+  align-items: flex-end;
+  display: flex;
+  background-size: cover;
+  background-blend-mode: overlay;
+}
